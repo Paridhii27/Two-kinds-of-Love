@@ -1,0 +1,16 @@
+ @font-face {
+    font-family: "typewriter";
+    src: url("assets/typewriter.ttf");
+}
+
+h1 {
+    font-family: "typewriter";
+}
+body{
+    font-family: "typewriter";
+}
+
+.top-container{
+    text-align: center;
+    margin:5vh;
+}
